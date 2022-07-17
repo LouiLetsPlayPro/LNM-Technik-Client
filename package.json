@@ -1,0 +1,14 @@
+{
+  "name": "lnm_technik_client",
+  "version": "0.0.1",
+  "description": "A Client System for LNM Technik",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Loui",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^19.0.8"
+  }
+}
